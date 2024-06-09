@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "108898009752",
+    "project_id": "performancetester-8d91f",
+    "storage_bucket": "performancetester-8d91f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108898009752:android:f52877475572de1b0a06ed",
+        "android_client_info": {
+          "package_name": "com.example.perftester"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUMtp70EYmFEhGHNGvSLAvJeKFCxEbS5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
